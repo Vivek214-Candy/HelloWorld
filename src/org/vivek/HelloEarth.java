@@ -3,7 +3,8 @@ package org.vivek;
 public class HelloEarth {
 
 	public static void main(String[] args) {
-		System.out.println("Welocome to the DarkWorld");
+		System.out.println("Welcome to fresh and breathtaking environment");
+
 	}
 
 }
